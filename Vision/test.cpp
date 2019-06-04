@@ -12,3 +12,4 @@ typedef boost::shared_ptr<CvImage> CvImagePtr;
 typedef boost::shared_ptr<CvImage const> CvImageConstPtr;
 
 }
+
